@@ -1,0 +1,23 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "06e0919d97fab3e7c599c1b538fd2c929aace5bd24bea5d5ba6777c613355424"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "jupyter": "*",
+        "matplotlib": "*",
+        "numpy": "*",
+        "pandas": "*",
+        "scipy": "*",
+        "statsmodels": "*"
+    },
+    "develop": {}
+}
